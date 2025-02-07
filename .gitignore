@@ -1,2 +1,4 @@
 *.code-workspace
 *.ipynb
+myvenv/
+testing/
