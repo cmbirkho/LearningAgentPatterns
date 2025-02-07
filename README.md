@@ -1,2 +1,2 @@
-# ProcurementAgent
-Learning how to program AI Agents with Langgraph with a simple example.
+# LearningAgentPatterns
+Having fun learning different programming patterns for Multi Agent Systems.
